@@ -62,3 +62,10 @@ tupla1 = ('Pão','Bacon','Leite')
 print(tupla1.count('Bacon'))
 #posição na tupla onde está o elemento
 print(tupla1.index('Leite'))
+
+#Range
+r = range(1,15)
+print(list(r))
+
+r = range(1,15,2)
+print(list(r))
