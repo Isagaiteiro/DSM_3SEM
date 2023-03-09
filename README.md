@@ -1,4 +1,4 @@
-# DSM_2SEM
+# DSM_3SEM
 Trabalhos desenvolvidos durante o 3° Semestre do curso superior tecnológico de Desenvolvimento de Software Multiplataforma 
 
 # :closed_book: Matérias
